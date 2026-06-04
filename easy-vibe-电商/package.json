@@ -1,0 +1,9 @@
+{
+  "name": "easy-vibe-ecommerce",
+  "version": "1.0.0",
+  "description": "电商主图与文案自动生成工具",
+  "scripts": {
+    "start": "npx serve -l 3000",
+    "dev": "npx serve -l 3000"
+  }
+}
